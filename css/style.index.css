@@ -1,0 +1,66 @@
+html{
+    font-size: 12px;
+    font-family: 'Kanit', sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: rgb(93, 129, 206);
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+}
+.column-100{
+    width: 100%;
+    text-align: center;
+    margin-left:  230px;
+    margin-right: 230px;
+}
+.column-65{
+    width: 65%;
+}
+.pad{
+    margin-left: 144px;
+}
+.column-35{
+    width: 35%;
+    margin-top: 23px;
+}
+nav{
+    border-bottom: 2px solid rgb(93, 129, 206)
+}
+nav li{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 15px 20px;
+    text-align: left;
+    padding: 20px;
+    font-size: 1.5rem;
+}
+nav a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav li:hover{
+    color: white;
+    background-color: rgb(93, 129, 206);
+}
+.ventas{
+    background-color: rgb(93, 129, 206);
+    padding: 15px;
+    color: white;
+}
+.menu{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 100%;
+}

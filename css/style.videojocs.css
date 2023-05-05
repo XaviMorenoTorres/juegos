@@ -1,0 +1,27 @@
+html{
+    font-size: 12px;
+    font-family: 'Kanit', sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: rgb(93, 129, 206);
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+}
+.column-100{
+    width: 100%;
+    text-align: center;
+    margin-left:  230px;
+    margin-right: 230px;
+}
