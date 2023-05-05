@@ -73,6 +73,11 @@ h4{
     margin-top: -300px;
     margin-left: 60px;
 }
+.caratula2{
+    margin-top: -300px;
+    margin-left: 60px;
+    margin-right: 20px;
+}
 .precio{
     margin-left: 60px;
     color: rgb(93, 129, 206);
@@ -113,5 +118,6 @@ h4{
     }
     .caratula2{
         margin-left: 60px;
+        margin-top: 0px;
     }
     }
