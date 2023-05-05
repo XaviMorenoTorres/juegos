@@ -82,3 +82,36 @@ h4{
 .per{
     margin-left: 60px;
 }
+@media screen and (max-width: 800px){
+    .column-100{
+        width: 100%;
+        margin-left:  20px;
+        margin-right: 20px;
+    }
+    .column-55{
+        width: 100%;
+    }
+    .column-50{
+        width: 100%;
+    }
+    .column-45{
+        width: 100%;
+    }
+    .video{
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 0px;
+    }
+    .gta{
+        width: 110px;
+        height: 115px;
+    }
+    .caratula1{
+        margin-top: 0px;
+        margin-left: 130px;
+        margin-right: 20px;
+    }
+    .caratula2{
+        margin-left: 60px;
+    }
+    }
